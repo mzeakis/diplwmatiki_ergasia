@@ -2,6 +2,7 @@
 ARTIFICIAL NEURAL NETWORKS AND THEIR APPLICATIONS IN RECOGNIZING THE KEY OF A PIECE OF MUSIC 
 
   ABSTRACT
+  
 Machine Learning and Neural Networks are a scientific field based on the way a person works and specifically the neurons of his brain. 
 The latter simulate human experience through the process of education. 
 Their learning is performed using large data sets in order to achieve problem solving and prediction execution. 
