@@ -14,4 +14,5 @@ During the training and evaluation process of the model, many experiments were p
 that give the best possible prediction success rate. Finally, a program (keyFinder.ipyndb) was developed that uses the trained model to predict the music key of 
 any track we want by having the corresponding mp3 file.
 
-In this repository there are files that helped us find easier ways to perform some programming tasks such as 
+In this repository there are test files such as "TESTwavTospectro.ipynb" and "TEST.ipynb" that helped us find easier ways to perform some programming tasks
+for the main files. 
